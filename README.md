@@ -3,7 +3,9 @@
 [Syllabus](syllabus.html)
 
 ## Week 1
-
+ * [Data Visualization 2018 Course Overview - YouTube (8 min)](https://www.youtube.com/watch?v=4e3NF8ez95w)
+   * [Slides for Data Visualization 2018 Course Overview - Google Drive](https://docs.google.com/presentation/d/1M4Ndoa_rbCZO5uNurD4slJc3yOFXgzZbQ9c1-MYICrI/edit?usp=sharing)
+   * [Data Visualization Online @ WPI 2018 - Medium](https://medium.com/@currankelleher/data-visualization-online-wpi-2018-f662bf32908d) - Contains links to examples shown.
  * [Intro to Javascript in 2018 - YouTube (1.5 hours)](https://www.youtube.com/watch?v=rUnmw9fQEwg)
    * [Slides for Intro to Javascript in 2018 - Google Drive](https://docs.google.com/presentation/d/107iidqJf5X9Yyk_C2NhH3vAeDPh7pNXw-wtk8yylXio/edit?usp=sharing)
    * [Cars Report Code - VizHub](https://vizhub.com/curran/1e6587bb27c54c368deae8b79a7ca59a)
