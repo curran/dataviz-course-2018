@@ -1,6 +1,7 @@
 # Data Visualization Course 2018
 
 [Syllabus](syllabus.html)
+
 [YouTube Playlist](https://www.youtube.com/watch?v=4e3NF8ez95w&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi)
 
 ## Week 1
