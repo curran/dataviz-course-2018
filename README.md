@@ -21,5 +21,6 @@
    * [Let's make a face with D3.js! - VizHub](https://vizhub.com/68416/be771477cb974c938cd8603dd8b59d32)
 
 ## Week 2
- * [Slides for Why Visualize Data?](https://docs.google.com/presentation/d/1IGhW6-nQX1gzEmWQH6XI9wHJSKVjWY5aq7mdWYU0gbI/edit?usp=sharing)
+ * [Why Visualize Data? - YouTube (12 min)](https://www.youtube.com/watch?v=7qJY6Rq9e2w&feature=youtu.be)
+   * [Slides for Why Visualize Data? - Google Drive](https://docs.google.com/presentation/d/1IGhW6-nQX1gzEmWQH6XI9wHJSKVjWY5aq7mdWYU0gbI/edit?usp=sharing)
  * [Slides for Inputs for Visualization](https://docs.google.com/presentation/d/1Zh4hkjZdBXv_NSOR15A2uTHvAQDHlIQohkym0Y0nOcI/edit?usp=sharing)
