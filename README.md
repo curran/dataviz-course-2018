@@ -19,3 +19,7 @@
  * [Intro to D3.js - Let's Make a Face! - YouTube (45 min)](https://www.youtube.com/watch?v=-RQWC4I2I1s&feature=youtu.be)
    * [Slides for Intro to D3.js - Let's Make a Face! - Google Drive](https://docs.google.com/presentation/d/1BpcyDF-t3DoOm6GnHrDzw4i_vG8Oi-iatRjywJkCN4g/edit?usp=sharing)
    * [Let's make a face with D3.js! - VizHub](https://vizhub.com/68416/be771477cb974c938cd8603dd8b59d32)
+
+## Week 2
+ * [Slides for Why Visualize Data?](https://docs.google.com/presentation/d/1IGhW6-nQX1gzEmWQH6XI9wHJSKVjWY5aq7mdWYU0gbI/edit?usp=sharing)
+ * [Slides for Inputs for Visualization](https://docs.google.com/presentation/d/1Zh4hkjZdBXv_NSOR15A2uTHvAQDHlIQohkym0Y0nOcI/edit?usp=sharing)
