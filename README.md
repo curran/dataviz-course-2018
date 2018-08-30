@@ -25,6 +25,6 @@
    * [Slides for Why Visualize Data? - Google Drive](https://docs.google.com/presentation/d/1IGhW6-nQX1gzEmWQH6XI9wHJSKVjWY5aq7mdWYU0gbI/edit?usp=sharing)
  * [Inputs for Data Visualization - YouTube (15 min)](https://www.youtube.com/watch?v=nGhSauu93vY&feature=youtu.be)
    * [Slides for Inputs for Visualization - Google Drive](https://docs.google.com/presentation/d/1Zh4hkjZdBXv_NSOR15A2uTHvAQDHlIQohkym0Y0nOcI/edit?usp=sharing)
- * [Making a Bar Chart with D3 & SVG - YouTube (30 min)](Making a Bar Chart with D3 and SVG)
+ * [Making a Bar Chart with D3 & SVG - YouTube (30 min)](https://www.youtube.com/watch?v=NlBt-7PuaLk&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi&index=8)
     * [Slides for Making a Bar Chart with D3 & SVG - Google Drive](https://docs.google.com/presentation/d/19rsOr0TYpW1iC_ncZlnWyxcvqzBChu3kUcfktBbNhio/edit?usp=sharing)
     * [Making a Bar Chart - VizHub](https://vizhub.com/curran/dd44f8fcdc8346ff90bddd63572bf638)
