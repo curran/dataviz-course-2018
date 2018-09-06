@@ -29,5 +29,9 @@
 
 ## Week 3
  * [Uploading Datasets to VizHub - YouTube (7 min)](https://www.youtube.com/watch?list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi&v=M6g5jKbS2vg)
+   * [Data Table Summary - VizHub](https://vizhub.com/curran/e6e1782e79f34e75898c49d4ed50abea)
+   * [Auto MPG Summary - VizHub](https://vizhub.com/curran/5f89c1c4b9164832ad9982880a9f018c)
  * [Customizing Axes of a Bar Chart with D3.js - YouTube (26 min)](https://www.youtube.com/watch?v=c3MCROTNN8g&feature=youtu.be)
+   * [Customizing Axes - VizHub](https://vizhub.com/curran/a44b38541b6e47a4afdd2dfe67a302c5)
  * [Making a Scatter Plot with D3.js - YouTube (25 min)](https://www.youtube.com/watch?v=M2s2jowLkUo&feature=youtu.be)
+   * [Cars Scatter Plot - VizHub](https://vizhub.com/curran/9247d4d42df74185980f7b1f7504dcc5)
