@@ -30,3 +30,4 @@
 ## Week 3
  * [Uploading Datasets to VizHub - YouTube (7 min)](https://www.youtube.com/watch?list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi&v=M6g5jKbS2vg)
  * [Customizing Axes of a Bar Chart with D3.js - YouTube (26 min)](https://www.youtube.com/watch?v=c3MCROTNN8g&feature=youtu.be)
+ * [Making a Scatter Plot with D3.js - YouTube (25 min)](https://www.youtube.com/watch?v=M2s2jowLkUo&feature=youtu.be)
