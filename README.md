@@ -33,5 +33,6 @@
    * [Auto MPG Summary - VizHub](https://vizhub.com/curran/5f89c1c4b9164832ad9982880a9f018c)
  * [Customizing Axes of a Bar Chart with D3.js - YouTube (26 min)](https://www.youtube.com/watch?v=c3MCROTNN8g&feature=youtu.be)
    * [Customizing Axes - VizHub](https://vizhub.com/curran/a44b38541b6e47a4afdd2dfe67a302c5)
+   * [The Sunlight Foundation's Data Visualization Style Guidelines (pdf)](https://github.com/amycesal/dataviz-style-guide/raw/master/Sunlight-StyleGuide-DataViz.pdf)
  * [Making a Scatter Plot with D3.js - YouTube (25 min)](https://www.youtube.com/watch?v=M2s2jowLkUo&feature=youtu.be)
    * [Cars Scatter Plot - VizHub](https://vizhub.com/curran/9247d4d42df74185980f7b1f7504dcc5)
