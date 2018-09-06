@@ -28,3 +28,7 @@
  * [Making a Bar Chart with D3 & SVG - YouTube (30 min)](https://www.youtube.com/watch?v=NlBt-7PuaLk&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi&index=8)
     * [Slides for Making a Bar Chart with D3 & SVG - Google Drive](https://docs.google.com/presentation/d/19rsOr0TYpW1iC_ncZlnWyxcvqzBChu3kUcfktBbNhio/edit?usp=sharing)
     * [Making a Bar Chart - VizHub](https://vizhub.com/curran/dd44f8fcdc8346ff90bddd63572bf638)
+
+## Week 3
+ * [Uploading Datasets to VizHub - YouTube (7 min)](https://www.youtube.com/watch?list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi&v=M6g5jKbS2vg)
+ * [Customizing Axes of a Bar Chart with D3.js - YouTube (26 min)](https://www.youtube.com/watch?v=c3MCROTNN8g&feature=youtu.be)
