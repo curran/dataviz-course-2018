@@ -1,8 +1,6 @@
 # Data Visualization Course 2018
 
-[Syllabus](syllabus.html)
-
-[YouTube Playlist](https://www.youtube.com/watch?v=4e3NF8ez95w&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi)
+[Syllabus](syllabus.html) | [YouTube Playlist](https://www.youtube.com/watch?v=4e3NF8ez95w&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi) | [VizHub](https://vizhub.com/curran)
 
 ## Week 1
  * [Data Visualization 2018 Course Overview - YouTube (8 min)](https://www.youtube.com/watch?v=4e3NF8ez95w)
