@@ -36,3 +36,6 @@
    * [The Sunlight Foundation's Data Visualization Style Guidelines (pdf)](https://github.com/amycesal/dataviz-style-guide/raw/master/Sunlight-StyleGuide-DataViz.pdf)
  * [Making a Scatter Plot with D3.js - YouTube (25 min)](https://www.youtube.com/watch?v=M2s2jowLkUo&feature=youtu.be)
    * [Cars Scatter Plot - VizHub](https://vizhub.com/curran/9247d4d42df74185980f7b1f7504dcc5)
+
+#Week 4
+ * [Making Line and Area Charts with D3.js - YouTube (30 min)](https://www.youtube.com/watch?v=0vKYFsTLtbA&feature=youtu.be)
