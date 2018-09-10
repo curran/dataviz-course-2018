@@ -37,5 +37,9 @@
  * [Making a Scatter Plot with D3.js - YouTube (25 min)](https://www.youtube.com/watch?v=M2s2jowLkUo&feature=youtu.be)
    * [Cars Scatter Plot - VizHub](https://vizhub.com/curran/9247d4d42df74185980f7b1f7504dcc5)
 
-#Week 4
+## Week 4
  * [Making Line and Area Charts with D3.js - YouTube (30 min)](https://www.youtube.com/watch?v=0vKYFsTLtbA&feature=youtu.be)
+ * [The General Update Pattern of D3.js - YouTube (1 hour)](https://www.youtube.com/watch?v=IyIAR65G-GQ&feature=youtu.be)
+   * [Bowl of Fruit - General Update Pattern - VizHub](https://vizhub.com/curran/ee9bb2827d614d26a571e00bf54dbf03)
+   * [Bowl of Fruit - Animated Transitions - VizHub](https://vizhub.com/curran/9857017449ed40688201d91d79814a6d)
+   * [Bowl of Fruit - General Update Pattern Special Cases - VizHub](https://vizhub.com/curran/7f4137a77b564607ae2791ab1e49cf7e)
