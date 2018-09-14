@@ -39,10 +39,10 @@
 
 ## Week 4
  * [Making Line and Area Charts with D3.js - YouTube (30 min)](https://www.youtube.com/watch?v=0vKYFsTLtbA&feature=youtu.be)
-   * [Temperature in San Francisco Scatter Plot](https://vizhub.com/curran/d131cb66253d4f88b06f76897211625a)
-   * [Temperature in San Francisco Line Chart](https://vizhub.com/curran/012b5b20ce894b0fa7dc98ef3a0b43a5)
-   * [Temperature in San Francisco Area Chart](https://vizhub.com/curran/585f19b2564e484188f4c60f1faf828e)
-   * [World Population Area Chart](https://vizhub.com/curran/900cb204023748b9a8bdf2273bdefe03)
+   * [Temperature in San Francisco Scatter Plot - VizHub](https://vizhub.com/curran/d131cb66253d4f88b06f76897211625a)
+   * [Temperature in San Francisco Line Chart - VizHub](https://vizhub.com/curran/012b5b20ce894b0fa7dc98ef3a0b43a5)
+   * [Temperature in San Francisco Area Chart - VizHub](https://vizhub.com/curran/585f19b2564e484188f4c60f1faf828e)
+   * [World Population Area Chart - VizHub](https://vizhub.com/curran/900cb204023748b9a8bdf2273bdefe03)
  * [The General Update Pattern of D3.js - YouTube (1 hour)](https://www.youtube.com/watch?v=IyIAR65G-GQ&feature=youtu.be)
    * [Slides for The General Update Pattern of D3.js - Google Drive](https://docs.google.com/presentation/d/1WIjDNjgNdXaXfJd0oVYm67WNF0vt7oBnBJD3RDBBh8c/edit?usp=sharing)
    * [Bowl of Fruit - General Update Pattern - VizHub](https://vizhub.com/curran/ee9bb2827d614d26a571e00bf54dbf03)
