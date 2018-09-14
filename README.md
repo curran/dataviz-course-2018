@@ -1,6 +1,6 @@
 # Data Visualization Course 2018
 
-[Syllabus](syllabus.html) | [YouTube Playlist](https://www.youtube.com/watch?v=4e3NF8ez95w&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi) | [VizHub](https://vizhub.com/curran)
+[Syllabus](syllabus.html) | [Videos](https://www.youtube.com/watch?v=4e3NF8ez95w&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi) | [Code](https://vizhub.com/curran) | [Slides](https://drive.google.com/drive/folders/1COIzQ2HNdegDRl2DSrwbliktSFksdE3m?usp=sharing)
 
 ## Week 1
  * [Data Visualization 2018 Course Overview - YouTube (8 min)](https://www.youtube.com/watch?v=4e3NF8ez95w)
@@ -44,6 +44,9 @@
    * [Temperature in San Francisco Area Chart](https://vizhub.com/curran/585f19b2564e484188f4c60f1faf828e)
    * [World Population Area Chart](https://vizhub.com/curran/900cb204023748b9a8bdf2273bdefe03)
  * [The General Update Pattern of D3.js - YouTube (1 hour)](https://www.youtube.com/watch?v=IyIAR65G-GQ&feature=youtu.be)
+   * [Slides for The General Update Pattern of D3.js - Google Drive](https://docs.google.com/presentation/d/1WIjDNjgNdXaXfJd0oVYm67WNF0vt7oBnBJD3RDBBh8c/edit?usp=sharing)
    * [Bowl of Fruit - General Update Pattern - VizHub](https://vizhub.com/curran/ee9bb2827d614d26a571e00bf54dbf03)
    * [Bowl of Fruit - Animated Transitions - VizHub](https://vizhub.com/curran/9857017449ed40688201d91d79814a6d)
    * [Bowl of Fruit - General Update Pattern Special Cases - VizHub](https://vizhub.com/curran/7f4137a77b564607ae2791ab1e49cf7e)
+ * [Marks & Channels in Data Visualization - YouTube (25 min)](https://www.youtube.com/watch?v=KGUxDlZ6OFQ&index=13&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi)
+   * [Slides for Marks & Channels in Data Visualization - Google Drive](https://docs.google.com/presentation/d/1ycHPXpTTSIPCm01uVe9NzSXEm-C74EsS9-6DHTHWT0k/edit?usp=sharing)
