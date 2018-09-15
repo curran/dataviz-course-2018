@@ -2,6 +2,10 @@
 
 [Syllabus](syllabus.html) | [Videos](https://www.youtube.com/watch?v=4e3NF8ez95w&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi) | [Code](https://vizhub.com/curran) | [Slides](https://drive.google.com/drive/folders/1COIzQ2HNdegDRl2DSrwbliktSFksdE3m?usp=sharing)
 
+All code is MIT Licensed, and all other content is Creative Commons Attribution.
+
+Feel free to use any of this material for your own teaching!
+
 ## Week 1
  * [Data Visualization 2018 Course Overview - YouTube (8 min)](https://www.youtube.com/watch?v=4e3NF8ez95w)
    * [Slides for Data Visualization 2018 Course Overview - Google Drive](https://docs.google.com/presentation/d/1M4Ndoa_rbCZO5uNurD4slJc3yOFXgzZbQ9c1-MYICrI/edit?usp=sharing)
