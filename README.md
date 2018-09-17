@@ -52,3 +52,9 @@ All code is MIT Licensed, and all other content is Creative Commons Attribution 
    * [Bowl of Fruit - General Update Pattern Special Cases - VizHub](https://vizhub.com/curran/7f4137a77b564607ae2791ab1e49cf7e)
  * [Marks & Channels in Data Visualization - YouTube (25 min)](https://www.youtube.com/watch?v=KGUxDlZ6OFQ&index=13&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi)
    * [Slides for Marks & Channels in Data Visualization - Google Drive](https://docs.google.com/presentation/d/1ycHPXpTTSIPCm01uVe9NzSXEm-C74EsS9-6DHTHWT0k/edit?usp=sharing)
+
+## Week 5
+ * [Interaction with Unidirectional Data Flow - YouTube (16 min)]()
+   * [Slides for Interaction with Unidirectional Data Flow - Google Drive](https://docs.google.com/presentation/d/1wsqHwKhaIDYa7ehHLLAuLMTd2qn5xI58nTwph5vyAqE/edit?usp=sharing)
+   * [Bowl of Fruit - Click to Select - VizHub](https://vizhub.com/curran/c2274b1dfe914115bac48f437b3c104e)
+   * [Bowl of Fruit - Hover to Select - VizHub](https://vizhub.com/curran/764361e86c9a48109ed1f356f100e879)
