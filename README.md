@@ -13,12 +13,12 @@ Feel free to use any of this material for your own teaching or work!
  * [Intro to Javascript in 2018 - YouTube (1.5 hours)](https://www.youtube.com/watch?v=rUnmw9fQEwg&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi)
    * [Slides for Intro to Javascript in 2018 - Google Drive](https://docs.google.com/presentation/d/107iidqJf5X9Yyk_C2NhH3vAeDPh7pNXw-wtk8yylXio/edit?usp=sharing)
    * [Cars Report Code - VizHub](https://vizhub.com/curran/1e6587bb27c54c368deae8b79a7ca59a)
- * [Intro to HTML, CSS & SVG - YouTube (35 min)](https://www.youtube.com/watch?v=ysG9j4_Uw_g&index=3&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi)<a href="https://vizhub.com/curran/366c38ba5ebc4631b4bd936f3b709744"><img align="right" src="https://user-images.githubusercontent.com/68416/45684652-a0945700-bb64-11e8-8968-75c12af08473.png"></a>
+ * [Intro to HTML, CSS & SVG - YouTube (35 min)](https://www.youtube.com/watch?v=ysG9j4_Uw_g&index=3&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi)<a href="https://vizhub.com/curran/366c38ba5ebc4631b4bd936f3b709744"><img align="right" height="130" src="https://user-images.githubusercontent.com/68416/45684652-a0945700-bb64-11e8-8968-75c12af08473.png"></a>
    * [Slides for Intro to HTML, CSS & SVG - Google Drive](https://docs.google.com/presentation/d/1mneYj6UAd71HjxdkMy3goEeOS-PhX7iM7xubbNjhPok/edit?usp=sharing)
    * [HTML Cars Report - VizHub](https://vizhub.com/curran/3b8a76ab64a649d19d73ddcaff6bdaf3)
    * [Shapes with SVG and CSS - VizHub](https://vizhub.com/curran/366c38ba5ebc4631b4bd936f3b709744)
    * [Google Color Picker](https://www.google.com/search?q=color+picker&oq=color+picker&aqs=chrome.0.0l3j35i39j0l2.2912j0j7)
- * [Intro to D3.js - Let's Make a Face! - YouTube (45 min)](https://www.youtube.com/watch?v=-RQWC4I2I1s&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi&index=4)
+ * [Intro to D3.js - Let's Make a Face! - YouTube (45 min)](https://www.youtube.com/watch?v=-RQWC4I2I1s&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi&index=4)<a href="https://vizhub.com/curran/be771477cb974c938cd8603dd8b59d32"><img align="right" height="130" src="https://user-images.githubusercontent.com/68416/45684995-96bf2380-bb65-11e8-9830-5c81fd9b74da.png"></a>
    * [Slides for Intro to D3.js - Let's Make a Face! - Google Drive](https://docs.google.com/presentation/d/1BpcyDF-t3DoOm6GnHrDzw4i_vG8Oi-iatRjywJkCN4g/edit?usp=sharing)
    * [Let's make a face with D3.js! - VizHub](https://vizhub.com/68416/be771477cb974c938cd8603dd8b59d32)
 
@@ -27,7 +27,7 @@ Feel free to use any of this material for your own teaching or work!
    * [Slides for Why Visualize Data? - Google Drive](https://docs.google.com/presentation/d/1IGhW6-nQX1gzEmWQH6XI9wHJSKVjWY5aq7mdWYU0gbI/edit?usp=sharing)
  * [Inputs for Data Visualization - YouTube (15 min)](https://www.youtube.com/watch?v=nGhSauu93vY&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi&index=6)
    * [Slides for Inputs for Visualization - Google Drive](https://docs.google.com/presentation/d/1Zh4hkjZdBXv_NSOR15A2uTHvAQDHlIQohkym0Y0nOcI/edit?usp=sharing)
- * [Making a Bar Chart with D3 & SVG - YouTube (30 min)](https://www.youtube.com/watch?v=NlBt-7PuaLk&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi&index=8)
+ * [Making a Bar Chart with D3 & SVG - YouTube (30 min)](https://www.youtube.com/watch?v=NlBt-7PuaLk&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi&index=8)<a href="https://vizhub.com/curran/dd44f8fcdc8346ff90bddd63572bf638"><img align="right" height="130" src="https://user-images.githubusercontent.com/68416/45685023-b0f90180-bb65-11e8-913d-ac43312ea396.png"></a>
     * [Slides for Making a Bar Chart with D3 & SVG - Google Drive](https://docs.google.com/presentation/d/19rsOr0TYpW1iC_ncZlnWyxcvqzBChu3kUcfktBbNhio/edit?usp=sharing)
     * [Making a Bar Chart - VizHub](https://vizhub.com/curran/dd44f8fcdc8346ff90bddd63572bf638)
 
