@@ -60,3 +60,5 @@ Feel free to use any of this material for your own teaching or work!
    * [Slides for Interaction with Unidirectional Data Flow - Google Drive](https://docs.google.com/presentation/d/1wsqHwKhaIDYa7ehHLLAuLMTd2qn5xI58nTwph5vyAqE/edit?usp=sharing)
    * [Bowl of Fruit - Click to Select - VizHub](https://vizhub.com/curran/c2274b1dfe914115bac48f437b3c104e)
    * [Bowl of Fruit - Hover to Select - VizHub](https://vizhub.com/curran/764361e86c9a48109ed1f356f100e879)
+ * [Making a World Map with D3 - YouTube (18 min)](https://www.youtube.com/watch?v=Qw6uAg3EO64&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi&index=15)
+   * [Let's make a map with D3.js! - VizHub](https://vizhub.com/curran/c5475d7c95d348d5b8268012fbccb728)
