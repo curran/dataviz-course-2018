@@ -56,7 +56,7 @@ Feel free to use any of this material for your own teaching or work!
    * [Slides for Marks & Channels in Data Visualization - Google Drive](https://docs.google.com/presentation/d/1ycHPXpTTSIPCm01uVe9NzSXEm-C74EsS9-6DHTHWT0k/edit?usp=sharing)
 
 ## Week 5
- * [Interaction with Unidirectional Data Flow - YouTube (16 min)](https://www.youtube.com/watch?v=yInEqiEwATc&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi&index=14)<a href="https://vizhub.com/curran/764361e86c9a48109ed1f356f100e879"><img align="right" height="130" src="https://user-images.githubusercontent.com/68416/45685139-059c7c80-bb66-11e8-92d6-cff397c54fe3.png"></a>
+ * [Interaction with Unidirectional Data Flow - YouTube (16 min)](https://www.youtube.com/watch?v=yInEqiEwATc&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi&index=14)<a href="https://vizhub.com/curran/764361e86c9a48109ed1f356f100e879"><img align="right" height="90" src="https://user-images.githubusercontent.com/68416/45685139-059c7c80-bb66-11e8-92d6-cff397c54fe3.png"></a>
    * [Slides for Interaction with Unidirectional Data Flow - Google Drive](https://docs.google.com/presentation/d/1wsqHwKhaIDYa7ehHLLAuLMTd2qn5xI58nTwph5vyAqE/edit?usp=sharing)
    * [Bowl of Fruit - Click to Select - VizHub](https://vizhub.com/curran/c2274b1dfe914115bac48f437b3c104e)
    * [Bowl of Fruit - Hover to Select - VizHub](https://vizhub.com/curran/764361e86c9a48109ed1f356f100e879)
