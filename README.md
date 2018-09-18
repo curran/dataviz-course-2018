@@ -35,10 +35,10 @@ Feel free to use any of this material for your own teaching or work!
  * [Uploading Datasets to VizHub - YouTube (7 min)](https://www.youtube.com/watch?v=M6g5jKbS2vg&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi&index=8)
    * [Data Table Summary - VizHub](https://vizhub.com/curran/e6e1782e79f34e75898c49d4ed50abea)
    * [Auto MPG Summary - VizHub](https://vizhub.com/curran/5f89c1c4b9164832ad9982880a9f018c)
- * [Customizing Axes of a Bar Chart with D3.js - YouTube (26 min)](https://www.youtube.com/watch?v=c3MCROTNN8g&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi&index=9)
+ * [Customizing Axes of a Bar Chart with D3.js - YouTube (26 min)](https://www.youtube.com/watch?v=c3MCROTNN8g&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi&index=9)<a href="https://vizhub.com/curran/a44b38541b6e47a4afdd2dfe67a302c5"><img align="right" height="130" src="https://user-images.githubusercontent.com/68416/45685040-be15f080-bb65-11e8-82b7-69d6ff42b681.png"></a>
    * [Customizing Axes - VizHub](https://vizhub.com/curran/a44b38541b6e47a4afdd2dfe67a302c5)
    * [The Sunlight Foundation's Data Visualization Style Guidelines (pdf)](https://github.com/amycesal/dataviz-style-guide/raw/master/Sunlight-StyleGuide-DataViz.pdf)
- * [Making a Scatter Plot with D3.js - YouTube (25 min)](https://www.youtube.com/watch?v=M2s2jowLkUo&index=10&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi)
+ * [Making a Scatter Plot with D3.js - YouTube (25 min)](https://www.youtube.com/watch?v=M2s2jowLkUo&index=10&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi)<a href="https://vizhub.com/curran/9247d4d42df74185980f7b1f7504dcc5"><img align="right" height="130" src="https://user-images.githubusercontent.com/68416/45685065-d128c080-bb65-11e8-86a3-9b558155077a.png"></a>
    * [Cars Scatter Plot - VizHub](https://vizhub.com/curran/9247d4d42df74185980f7b1f7504dcc5)
 
 ## Week 4
