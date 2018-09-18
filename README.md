@@ -1,5 +1,3 @@
-# Data Visualization Course 2018
-
 [Syllabus](syllabus.html) | [Videos](https://www.youtube.com/watch?v=4e3NF8ez95w&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi) | [Code](https://vizhub.com/curran) | [Slides](https://drive.google.com/drive/folders/1COIzQ2HNdegDRl2DSrwbliktSFksdE3m?usp=sharing) | [Canvas](https://canvas.wpi.edu/courses/11859)
 
 All code is MIT Licensed, and all other content is Creative Commons Attribution Licensed.
