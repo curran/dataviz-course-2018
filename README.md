@@ -13,7 +13,7 @@ Feel free to use any of this material for your own teaching or work!
  * [Intro to Javascript in 2018 - YouTube (1.5 hours)](https://www.youtube.com/watch?v=rUnmw9fQEwg&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi)
    * [Slides for Intro to Javascript in 2018 - Google Drive](https://docs.google.com/presentation/d/107iidqJf5X9Yyk_C2NhH3vAeDPh7pNXw-wtk8yylXio/edit?usp=sharing)
    * [Cars Report Code - VizHub](https://vizhub.com/curran/1e6587bb27c54c368deae8b79a7ca59a)
- * [Intro to HTML, CSS & SVG - YouTube (35 min)](https://www.youtube.com/watch?v=ysG9j4_Uw_g&index=3&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi)<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
+ * [Intro to HTML, CSS & SVG - YouTube (35 min)](https://www.youtube.com/watch?v=ysG9j4_Uw_g&index=3&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi)<a href="https://vizhub.com/curran/366c38ba5ebc4631b4bd936f3b709744"><img align="right" src="https://user-images.githubusercontent.com/68416/45684652-a0945700-bb64-11e8-8968-75c12af08473.png"></a>
    * [Slides for Intro to HTML, CSS & SVG - Google Drive](https://docs.google.com/presentation/d/1mneYj6UAd71HjxdkMy3goEeOS-PhX7iM7xubbNjhPok/edit?usp=sharing)
    * [HTML Cars Report - VizHub](https://vizhub.com/curran/3b8a76ab64a649d19d73ddcaff6bdaf3)
    * [Shapes with SVG and CSS - VizHub](https://vizhub.com/curran/366c38ba5ebc4631b4bd936f3b709744)
