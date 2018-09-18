@@ -42,12 +42,12 @@ Feel free to use any of this material for your own teaching or work!
    * [Cars Scatter Plot - VizHub](https://vizhub.com/curran/9247d4d42df74185980f7b1f7504dcc5)
 
 ## Week 4
- * [Making Line and Area Charts with D3.js - YouTube (30 min)](https://www.youtube.com/watch?v=0vKYFsTLtbA&index=11&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi)
+ * [Making Line and Area Charts with D3.js - YouTube (30 min)](https://www.youtube.com/watch?v=0vKYFsTLtbA&index=11&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi)<a href="https://vizhub.com/curran/012b5b20ce894b0fa7dc98ef3a0b43a5"><img align="right" height="130" src="https://user-images.githubusercontent.com/68416/45685084-dede4600-bb65-11e8-9cab-b69dbc903027.png"></a>
    * [Temperature in San Francisco Scatter Plot - VizHub](https://vizhub.com/curran/d131cb66253d4f88b06f76897211625a)
    * [Temperature in San Francisco Line Chart - VizHub](https://vizhub.com/curran/012b5b20ce894b0fa7dc98ef3a0b43a5)
    * [Temperature in San Francisco Area Chart - VizHub](https://vizhub.com/curran/585f19b2564e484188f4c60f1faf828e)
    * [World Population Area Chart - VizHub](https://vizhub.com/curran/900cb204023748b9a8bdf2273bdefe03)
- * [The General Update Pattern of D3.js - YouTube (1 hour)](https://www.youtube.com/watch?v=IyIAR65G-GQ&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi&index=12)
+ * [The General Update Pattern of D3.js - YouTube (1 hour)](https://www.youtube.com/watch?v=IyIAR65G-GQ&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi&index=12)<a href="https://vizhub.com/curran/7f4137a77b564607ae2791ab1e49cf7e"><img align="right" height="130" src="https://user-images.githubusercontent.com/68416/45685124-f87f8d80-bb65-11e8-91fe-4a341d260ea4.png"></a>
    * [Slides for The General Update Pattern of D3.js - Google Drive](https://docs.google.com/presentation/d/1WIjDNjgNdXaXfJd0oVYm67WNF0vt7oBnBJD3RDBBh8c/edit?usp=sharing)
    * [Bowl of Fruit - General Update Pattern - VizHub](https://vizhub.com/curran/ee9bb2827d614d26a571e00bf54dbf03)
    * [Bowl of Fruit - Animated Transitions - VizHub](https://vizhub.com/curran/9857017449ed40688201d91d79814a6d)
