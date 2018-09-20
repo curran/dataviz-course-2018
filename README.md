@@ -61,3 +61,6 @@ Feel free to use any of this material for your own teaching or work!
  * [Making a World Map with D3 - YouTube (18 min)](https://www.youtube.com/watch?v=Qw6uAg3EO64&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi&index=15)<a href="https://vizhub.com/curran/c5475d7c95d348d5b8268012fbccb728"><img align="right" height="130" src="https://user-images.githubusercontent.com/68416/45685228-57450700-bb66-11e8-97c5-1d1803097677.png"></a>
    * [Slides for Making a World Map - Google Drive](https://docs.google.com/presentation/d/1Ek9OHBojcAPCDl8py1cHGnmJZ-PZIi0v3Abewgu8z_w/edit?usp=sharing)
    * [Let's make a map with D3.js! - VizHub](https://vizhub.com/curran/c5475d7c95d348d5b8268012fbccb728)
+ * [Cheap Tricks for Interaction on a D3.js World Map - YouTube (23 min)](https://www.youtube.com/watch?v=9ZB1EgaJnBU&index=16&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi)
+   * [Slides for Cheap Tricks for Interaction - Google Drive](https://docs.google.com/presentation/d/1q65ImRQj1f8PKQlA98S129CDAbr1Pxe-gFbpeKv6Nyw/edit?usp=sharing)
+   * [Cheap Tricks for Interaction - VizHub](https://vizhub.com/curran/4fb5e4e665474a169325bd18cdc3d0c0)
