@@ -67,3 +67,8 @@ Feel free to use any of this material for your own teaching or work!
  * [Building a Tree Visualization of World Countries - YouTube (35 min)](https://www.youtube.com/watch?v=jfpV7OBptYE&index=17&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi)<a href="https://vizhub.com/curran/4f92c793909f48d28012e43ddab716df"><img align="right" height="130" src="https://user-images.githubusercontent.com/68416/45843965-a5acfe00-bd3e-11e8-9f38-d05cb530e45c.png"></a>
    * [Slides for Building a Tree Visualization of World Countries - Google Drive](https://docs.google.com/presentation/d/1mU44cahU-wXwlp7ud6WoULTjRo40DmdFuUBKWOhIEV8/edit?usp=sharing)
    * [World Countries Tree - VizHub](https://vizhub.com/curran/4f92c793909f48d28012e43ddab716df)
+
+## Week 6
+
+ * [Color and Size Legends with D3.js - YouTube (30 min)](https://www.youtube.com/watch?v=XmVPHq4NhMA&feature=youtu.be)<a href="https://vizhub.com/curran/92c34f62c0f948e89e87d28907c08715"><img align="right" height="90" src="https://user-images.githubusercontent.com/68416/45968098-828b9280-c04d-11e8-9001-304dbb224068.png"></a>
+   * [Color and Size Legends - VizHub](https://vizhub.com/curran/92c34f62c0f948e89e87d28907c08715)
