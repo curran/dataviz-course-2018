@@ -70,5 +70,5 @@ Feel free to use any of this material for your own teaching or work!
 
 ## Week 6
 
- * [Color and Size Legends with D3.js - YouTube (30 min)](https://www.youtube.com/watch?v=XmVPHq4NhMA&feature=youtu.be)<a href="https://vizhub.com/curran/92c34f62c0f948e89e87d28907c08715"><img align="right" height="90" src="https://user-images.githubusercontent.com/68416/45968098-828b9280-c04d-11e8-9001-304dbb224068.png"></a>
+ * [Color and Size Legends with D3.js - YouTube (30 min)](https://www.youtube.com/watch?v=XmVPHq4NhMA&feature=youtu.be)<a href="https://vizhub.com/curran/92c34f62c0f948e89e87d28907c08715"><img align="right" height="130" src="https://user-images.githubusercontent.com/68416/45968098-828b9280-c04d-11e8-9001-304dbb224068.png"></a>
    * [Color and Size Legends - VizHub](https://vizhub.com/curran/92c34f62c0f948e89e87d28907c08715)
