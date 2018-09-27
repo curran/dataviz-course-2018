@@ -69,7 +69,9 @@ Feel free to use any of this material for your own teaching or work!
    * [World Countries Tree - VizHub](https://vizhub.com/curran/4f92c793909f48d28012e43ddab716df)
 
 ## Week 6
-
+ * Using Color in Visualization - YouTube TODO add link
+   * [Slides for Using Color in Visualization - Google Drive](https://docs.google.com/presentation/d/1IvRZ6YzF6O4P301UL9gQR7Lt0vGQTkbQVCikbvXpxFE/edit?usp=sharing)
+   * [Akiyoshi Kitaoka Visual Illusions - Twitter](https://twitter.com/AkiyoshiKitaoka)
  * [Color and Size Legends with D3.js - YouTube (30 min)](https://www.youtube.com/watch?v=XmVPHq4NhMA&feature=youtu.be)<a href="https://vizhub.com/curran/92c34f62c0f948e89e87d28907c08715"><img align="right" height="130" src="https://user-images.githubusercontent.com/68416/45968098-828b9280-c04d-11e8-9001-304dbb224068.png"></a>
    * [Color and Size Legends - VizHub](https://vizhub.com/curran/92c34f62c0f948e89e87d28907c08715)
  * [Choropleth Map with D3.js - YouTube (32 min)](https://www.youtube.com/watch?v=OoZ0LWD9KUs&index=19&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi)<a href="https://vizhub.com/curran/d5ad96d1fe8148bd827a25230cc0f083"><img align="right" height="130" src="https://user-images.githubusercontent.com/68416/46018783-50833a80-c0f8-11e8-8cb5-1138b8999725.png"></a>
