@@ -77,3 +77,5 @@ Feel free to use any of this material for your own teaching or work!
  * [Choropleth Map with D3.js - YouTube (32 min)](https://www.youtube.com/watch?v=OoZ0LWD9KUs&index=19&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi)<a href="https://vizhub.com/curran/d5ad96d1fe8148bd827a25230cc0f083"><img align="right" height="130" src="https://user-images.githubusercontent.com/68416/46018783-50833a80-c0f8-11e8-8cb5-1138b8999725.png"></a>
    * [Slides for Choropleth Map](https://docs.google.com/presentation/d/1t5bZnjpr_9ssaYpUa4Nu3eX3hNCr4M_eVhaI41s6GLQ/edit?usp=sharing)
    * [Choropleth Map - VizHub](https://vizhub.com/curran/d5ad96d1fe8148bd827a25230cc0f083)
+ * [Interactive Filtering on a Choropleth Map - YouTube (45 min)](https://www.youtube.com/watch?v=E9PhCimWSVQ&index=20&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi)
+   * [Choropleth Map with Interactive Filtering - VizHub](https://vizhub.com/curran/5c907e49d0294538aad03ad1f41e1e28)
