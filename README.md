@@ -79,3 +79,8 @@ Feel free to use any of this material for your own teaching or work!
    * [Choropleth Map - VizHub](https://vizhub.com/curran/d5ad96d1fe8148bd827a25230cc0f083)
  * [Interactive Filtering on a Choropleth Map - YouTube (45 min)](https://www.youtube.com/watch?v=E9PhCimWSVQ&index=20&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi)
    * [Choropleth Map with Interactive Filtering - VizHub](https://vizhub.com/curran/5c907e49d0294538aad03ad1f41e1e28)
+   
+# Week 7
+
+ * [Scatter Plot with Menus - YouTube (46 min)](https://www.youtube.com/watch?v=MjjYLbShFi8&index=22&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi)
+   * [Scatter Plot with Menus - VizHub](https://vizhub.com/curran/98ba4daacc92442f8d9fd7d91bfd712a)
