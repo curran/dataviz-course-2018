@@ -84,3 +84,7 @@ Feel free to use any of this material for your own teaching or work!
 
  * [Scatter Plot with Menus - YouTube (46 min)](https://www.youtube.com/watch?v=MjjYLbShFi8&index=22&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi)<a href="https://vizhub.com/curran/98ba4daacc92442f8d9fd7d91bfd712a"><img align="right" height="130" src="https://user-images.githubusercontent.com/68416/46571562-c14a1280-c994-11e8-9993-ea18472c54a9.png"></a>
    * [Scatter Plot with Menus - VizHub](https://vizhub.com/curran/98ba4daacc92442f8d9fd7d91bfd712a)
+
+# Week 8
+
+ * [Circles on a Map - YouTube (42 min)](https://www.youtube.com/watch?v=c0a02WHjgEs&feature=youtu.be)
