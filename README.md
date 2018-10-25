@@ -64,6 +64,8 @@ Feel free to use any of this material for your own teaching or work!
  * [Cheap Tricks for Interaction on a D3.js World Map - YouTube (23 min)](https://www.youtube.com/watch?v=9ZB1EgaJnBU&index=16&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi)
    * [Slides for Cheap Tricks for Interaction - Google Drive](https://docs.google.com/presentation/d/1q65ImRQj1f8PKQlA98S129CDAbr1Pxe-gFbpeKv6Nyw/edit?usp=sharing)
    * [Cheap Tricks for Interaction - VizHub](https://vizhub.com/curran/4fb5e4e665474a169325bd18cdc3d0c0)
+ * [Blank Canvas - YouTube (5 min)](https://www.youtube.com/watch?v=VbshRJIbxmo&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi&index=17)
+   * [Blank Canvas - VizHub](https://vizhub.com/curran/0c35fdf97a6042188b5550e6712de315)
  * [Building a Tree Visualization of World Countries - YouTube (35 min)](https://www.youtube.com/watch?v=jfpV7OBptYE&index=17&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi)<a href="https://vizhub.com/curran/4f92c793909f48d28012e43ddab716df"><img align="right" height="130" src="https://user-images.githubusercontent.com/68416/45843965-a5acfe00-bd3e-11e8-9f38-d05cb530e45c.png"></a>
    * [Slides for Building a Tree Visualization of World Countries - Google Drive](https://docs.google.com/presentation/d/1mU44cahU-wXwlp7ud6WoULTjRo40DmdFuUBKWOhIEV8/edit?usp=sharing)
    * [World Countries Tree - VizHub](https://vizhub.com/curran/4f92c793909f48d28012e43ddab716df)
