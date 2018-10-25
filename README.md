@@ -102,3 +102,5 @@ Feel free to use any of this material for your own teaching or work!
    * [Melting and Munging Data with JavaScript - VizHub](https://vizhub.com/curran/ecb0793c7d674100b3e3133d92cb6957)
  * [Map with Selectable Countries - YouTube (12 min)](https://www.youtube.com/watch?v=L2Tj20cGJ_4&index=28&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi)
    * [Map with Selectable Countries - VizHub](https://vizhub.com/curran/b6de507a869d4e0581fd8a652b786a7e)
+ * [Selecting a Year on a Line Chart - YouTube (28 min)](https://www.youtube.com/watch?v=TGbkLXypPOE&index=29&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi)
+   * [Selecting a Year on a Line Chart - VizHub](https://vizhub.com/curran/501f3fe24cfb4e6785ac75008b530a83)
