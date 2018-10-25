@@ -98,3 +98,5 @@ Feel free to use any of this material for your own teaching or work!
 
  * [Line Chart with Multiple Lines - YouTube (24 min)](https://www.youtube.com/watch?v=xFI-us1moj0&index=26&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi)
    * [Line Chart with Multiple Lines - VizHub](https://vizhub.com/curran/2546209d161e4294802c4ac0098bebc2)
+ * [Melting and Munging Data with JavaScript - YouTube (29 min)](https://www.youtube.com/watch?v=OQloPWK1wX4&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi&index=27)
+   * [Melting and Munging Data with JavaScript - VizHub](https://vizhub.com/curran/ecb0793c7d674100b3e3133d92cb6957)
