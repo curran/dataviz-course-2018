@@ -93,3 +93,8 @@ Feel free to use any of this material for your own teaching or work!
    * [VizHub 1.0 - Medium](https://medium.com/@currankelleher/vizhub-1-0-9fc56a70a464)
  * [Circles on a Map - YouTube (42 min)](https://www.youtube.com/watch?v=c0a02WHjgEs&index=24&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi)<a href="https://vizhub.com/curran/8704c9b7c6df43cabf839aa3f1cb7b70"><img align="right" height="130" src="https://user-images.githubusercontent.com/68416/46830240-abd24f80-cdbd-11e8-896d-79fde049103f.png"></a>
    * [Circles on a Map - VizHub](https://vizhub.com/curran/8704c9b7c6df43cabf839aa3f1cb7b70)
+
+# Week 9
+
+ * [Line Chart with Multiple Lines - YouTube (24 min)](https://www.youtube.com/watch?v=xFI-us1moj0&index=26&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi)
+   * [Line Chart with Multiple Lines - VizHub](https://vizhub.com/curran/2546209d161e4294802c4ac0098bebc2)
