@@ -4,8 +4,6 @@ All code is MIT Licensed, and all other content is Creative Commons Attribution 
 
 Feel free to use any of this material for your own teaching or work!
 
-If you appreciate my work and this free content, please consider backing this [Kickstarter campaign for VizHub 2.0](https://www.kickstarter.com/projects/curran/vizhub-20-a-data-visualization-platform) as a way to say "thank you". Thank you!
-
 If you prefer a single 13-hour video, check out this [compilation video from FreeCodeCamp](https://www.youtube.com/watch?v=_8V5o2UHG0E), which contains the exact same video content as the links below.
 
 ## Week 1
